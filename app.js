@@ -292,3 +292,6 @@ function isPasswordValid(params) {
   return "Too Short";
 }
 console.log(isPasswordValid(prompt("Enter Your Password")));
+
+/////////////////////////////////////////
+// Completed
